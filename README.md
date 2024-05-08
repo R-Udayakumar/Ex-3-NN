@@ -1,8 +1,8 @@
 <H3>NAME :  UDAYAKUMAR R</H3>
 <H3>REGISTER NO.  212222230163</H3>
-<H3>EX. NO.3</H3>
-<H3>DATE: 13-04-2024</H3>
-<H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
+<H3>EX. NO: 03</H3>
+<H3>DATE : 13-04-2024</H3>
+<H2 align = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
 <H3>Theory:</H3>
